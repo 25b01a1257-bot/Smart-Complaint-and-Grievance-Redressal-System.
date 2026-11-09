@@ -1,0 +1,4 @@
+Complaint ID,Name,Email,Category,Department,Description,Priority,Status,Date,Remarks
+"CMP-2026-0001","Lahari","lahari@gmail.com","Infrastructure","Maintenance Department","classroom projector is not working","High","Resolved","2026-11-09","projector repaired successfully"
+"CMP-2026-0002","kavya","kavya@gmail.com","Academics","Academic Department","internal marks were not updated","High","Resolved","2026-11-09","marks were updated"
+"CMP-2026-0003","Tejaswini","teja@gmail.com","Infrastructure","Maintenance Department","Ac is not working properly","High","Resolved","2026-11-09","Ac was repaired successsfully"

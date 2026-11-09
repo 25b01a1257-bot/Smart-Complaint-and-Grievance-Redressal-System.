@@ -1,0 +1,29 @@
+SMART COMPLAINT MANAGEMENT SYSTEM
+COMPLAINT RESOLUTION REPORT
+========================================
+Complaint ID: CMP-2026-0001
+Name: Lahari
+Email: lahari@gmail.com
+Category: Infrastructure
+Department: Maintenance Department
+Description: classroom projector is not working
+Priority: High
+Status: Resolved
+Date: 2026-11-09
+Resolution Remarks: projector repaired successfully
+----------------------------------------
+Complaint ID: CMP-2026-0002
+Name: kavya
+Email: kavya@gmail.com
+Category: Academics
+Department: Academic Department
+Description: internal marks were not updated
+Priority: High
+Status: Resolved
+Date: 2026-11-09
+Resolution Remarks: marks were updated
+----------------------------------------
+Total Complaints: 2
+Submitted: 0
+In Progress: 0
+Resolved: 2
